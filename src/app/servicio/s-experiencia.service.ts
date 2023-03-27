@@ -10,7 +10,7 @@ import { Experiecia } from '../Model/experiecia';
 export class SExperienciaService {
   
 
-  expURL = 'https://dnpbackend.onrender.com/explab/';
+  //expURL = 'https://dnpbackend.onrender.com/explab/';
 
   URL = environment.URL + 'explab/';
 

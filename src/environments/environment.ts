@@ -14,7 +14,7 @@ export const environment = {
     measurementId: 'G-6KDF0J20D3',
   },
   production: false,
-  URL: "https://dnpbackend.onrender.com"
+  URL: "https://dnpbackend.onrender.com/"
  
  // URL: 'http://localhost:8080/'
 };

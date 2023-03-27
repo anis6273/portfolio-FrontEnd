@@ -10,6 +10,6 @@ export const environment = {
     measurementId: 'G-6KDF0J20D3',
   },
   production: true, 
-  URL: "https://dnpbackend.onrender.com",
-  idPersona:1
+  URL: "https://dnpbackend.onrender.com/",
+  //idPersona:1
 };

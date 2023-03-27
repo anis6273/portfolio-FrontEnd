@@ -10,9 +10,9 @@ import { Educacion } from '../Model/educacion';
 export class EducacionService {
 
 
-URL= "https://dnpbackend.onrender.com/educacion/";
+//URL= "https://dnpbackend.onrender.com/educacion/";
 
-  //URL = environment.URL + 'educacion/';
+URL = environment.URL + 'educacion/';
 
 
   constructor(private httpClient : HttpClient) { }

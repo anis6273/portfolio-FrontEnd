@@ -11,7 +11,7 @@ import { NuevoUsuario } from '../Model/nuevo-usuario';
 })
 export class AuthService {
 
-  //authURL = 'https://backenddnp.onrender.com/auth/';
+  authURL = 'https://dnpbackend.onrender.com/auth/';
   //authURL = 'http://localhost:8080/auth/';
   URL = environment.URL + 'auth/';
 
