@@ -9,5 +9,7 @@ export const environment = {
     messagingSenderId: '636967069291',
     measurementId: 'G-6KDF0J20D3',
   },
-  production: true
+  production: true, 
+  URL: "https://dnpbackend.onrender.com",
+  idPersona:1
 };

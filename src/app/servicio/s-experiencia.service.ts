@@ -8,8 +8,9 @@ import { Experiecia } from '../Model/experiecia';
   providedIn: 'root'
 })
 export class SExperienciaService {
+  
 
-  expURL = 'https://backend-mgb.herokuapp.com/explab/';
+  expURL = 'https://dnpbackend.onrender.com/explab/';
 
   URL = environment.URL + 'explab/';
 
